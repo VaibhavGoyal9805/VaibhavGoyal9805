@@ -1,11 +1,11 @@
 <!-- Dynamic Header Banner using Capsule Render -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Vaibhav%20Goyal&fontSize=80&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Passionate%20AI/ML%20Developer&descAlign=50&descAlignY=70" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Vaibhav%20Goyal&fontSize=80&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Living%20life%20on%20my%20own%20ways&descAlign=50&descAlignY=70" alt="Header Banner" />
 </div>
 
 <!-- Animated Typing Subtitle -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=🚀+Building+Transformers+from+Scratch;🧠+Exploring+Deep+Learning+%26+LLMs;💻+C%2B%2B+%7C+Python+%7C+PyTorch;✨+Always+learning+new+tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=🚀+Building+Transformers+from+Scratch;🧠+Passionate+about+Machine+Learning;💻+C%2B%2B+%7C+Python+%7C+PyTorch;✨+Living+life+on+my+own+ways" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,12 +13,9 @@
   <img src="https://komarev.com/ghpvc/?username=VaibhavGoyal9805&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- Socials with hover-like effects -->
+<!-- Socials with hover-like effects (LinkedIn removed, Twitter & Email updated) -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <a href="https://x.com/Vaibhav78932141" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:govaibhav088@gmail.com" target="_blank">
@@ -28,22 +25,25 @@
 
 ---
 
-## 🏆 GitHub Trophies
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VaibhavGoyal9805&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://raw.githubusercontent.com/7lovesakura/7lovesakura/master/pic/coding.gif" width="400" alt="Coding Animation">
 </div>
-
----
 
 ## 👨‍💻 About Me & What I'm Doing
 
-- 🔭 **Currently Working On:** Deep Learning Architectures, specifically building **Transformers from Scratch** using PyTorch.
-- 🌱 **Currently Learning:** Advanced concepts in Large Language Models (LLMs) and Scalable AI systems.
-- 👯 **Looking to Collaborate:** Open Source AI/ML Projects and Data Science initiatives.
-- 💬 **Ask Me About:** Python, Data Structures, Algorithms, Machine Learning, and Neural Networks.
-- ⚡ **Fun Fact:** I love diving deep into the mathematical foundations of neural networks!
+- 🔭 **Currently Working On:** Deep Learning Architectures and building **Transformers from Scratch** in PyTorch.
+- 🌱 **Always Learning:** I love diving deep into the mathematics of neural networks and understanding how systems scale.
+- 💬 **Let's Talk About:** Python, Data Structures, Machine Learning, or even just life! 
+- 🎯 **My Motto:** Living life on my own ways, always pushing myself to learn something new.
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=VaibhavGoyal9805&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
 
 ---
 
@@ -82,8 +82,13 @@
 </div>
 
 ---
+
+## 💬 Daily Programming Quote
+<div align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&font=fira_code" alt="Daily Quote" />
+</div>
+
 <!-- Dynamic Footer Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Banner" />
 </div>
-

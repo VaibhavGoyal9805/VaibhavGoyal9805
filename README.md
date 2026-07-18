@@ -38,12 +38,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements & Trophies
 <div align="center">
-  <!-- GitHub Profile Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VaibhavGoyal9805&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
-  </a>
+  <!-- Using Metrics API to avoid the Vercel rate limits of the standard trophy generator -->
+  <img src="https://metrics.lecoq.io/VaibhavGoyal9805?template=classic&base=0&plugin_achievements=yes&plugin_achievements_display=compact&plugin_achievements_threshold=C" alt="GitHub Achievements" />
 </div>
 
 ---
@@ -62,9 +60,9 @@
 ## 📊 Live GitHub Stats
 
 <div align="center">
-  <!-- Overall Stats Card -->
+  <!-- Overall Stats Card (Using Extended Vercel instance for reliability) -->
   <a href="https://github.com/VaibhavGoyal9805">
-    <img src="https://github-readme-stats.vercel.app/api?username=VaibhavGoyal9805&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=VaibhavGoyal9805&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   
   <!-- Streak Stats Card -->
@@ -76,9 +74,9 @@
 <br>
 
 <div align="center">
-  <!-- Top Languages Card -->
+  <!-- Top Languages Card (Using Extended Vercel instance for reliability) -->
   <a href="https://github.com/VaibhavGoyal9805">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavGoyal9805&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VaibhavGoyal9805&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
